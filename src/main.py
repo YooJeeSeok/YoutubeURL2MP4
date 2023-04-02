@@ -10,8 +10,8 @@ from urllib.parse import urlparse
 
 ## 설치 확안
 # 유튜브 URL 및 음성파일 경로 변수 선언
-YOUTUBE_URL = 'https://youtube.com/shorts/DfhErilz7hY?feature=share'
-FOLDER_PATH = '/Users/yujiseog/Documents/yt_mp3'
+YOUTUBE_URL = '' # YOUTUBE_URL 저장 위치
+FOLDER_PATH = '' # mp3 저장 위치
 
 
 ydl_opts = {
